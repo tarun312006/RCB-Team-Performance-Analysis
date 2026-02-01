@@ -26,3 +26,5 @@ Calculated Fields,
 Clustered Column Charts,
 KPI Cards,
 Dashboard Design.
+![Team Dashboard](https://github.com/tarun312006/RCB-Team-Performance-Analysis/blob/6647e1e429e39997129dc6cd3c182f95a758b373/Rcb%20Player%20performance%20Analysis%20Dashboard.png)
+![Team Dashboard](https://github.com/tarun312006/RCB-Team-Performance-Analysis/blob/6647e1e429e39997129dc6cd3c182f95a758b373/Rcb%20Team%20Performance%20Analytics%20Dashboard.png)
